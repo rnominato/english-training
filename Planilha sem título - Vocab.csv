@@ -1,0 +1,287 @@
+Item ,Class,Word,Desc,Level,Tran
+1,Animals,Breed,"If animals breed, they produce babies.",B2,"Procriar, Reproduzir-se"
+2,Animals,Brood,a group of young birds all born at the same time.,none ,Ninhada
+3,Animals,Cattle,cows and bulls that are kept for their milk or meat,B1,Gado
+4,Animals,Cohort,"a group of people who share characteristic, usually age",none,Grupo
+5,Animals,Cub,"the young of particular wild animals, such as bears and lions",None,Filhote
+6,Animals,Drone,a male bee,none ,Zangão
+7,Animals,Grizzly,"a very large, greyish-brown bear from North America",none ,Urso-pardo
+8,Animals,Hatch,o (cause an egg to) break in order to allow a young animal to come out.,none ,Chocar
+9,Animals,Lizard,"a small reptile that has a long body, four short legs, a long tail, and thick skin.",none ,Lagarto
+10,Animals,Mammoth,prehistoric animal now extinct similar in shape to an elephant ,none ,Mamute
+11,Animals,Prey,an animal that is hunted and killed for food by another animal,C2,Presa
+12,Animals,Sting,"if an insect, plant, or animal stings, it produces a small painful injury, usually with a poison, by brushing against the skin or making a very small hole in the skin",none ,Picada
+13,Animals,Swarms,A large amount of insects all moving together,none ,Enxame
+14,Animals,Tail,"a part of an animal’s body, sticking out from the base of the back, or something similar in shape or position.",B2,Rabo
+15,Animals,Tortoise,"an animal with a thick, hard shell that it can move its head and legs into for protection. It eats plants, moves very slowly, and sleeps during the winter.[",none ,Tartaruga
+16,Animals,Tusk,"either of two long, pointed teeth of some animals such as elephants",none ,Dente comprido
+17,Animals,Webbed,"if a bird or animal has webbed feet, its toes are connected by skin to help it when swimming",none ,Pé de pato
+18,Animals,Wasp ,"a flying insect, often black and yellow, that can sting (=produce a small, painful skin injury)",B2,Vespa
+19,Animals,Wombat,"an Australian mammal with strong, short legs that it uses for digging",none ,Vombate
+20,People,Amusement,an activity that you can take part in for entertainment,B2,Diversão
+21,People,Appeal,"a request to the public for money, information, or help",C1,Apelo
+22,People,Awe,a feeling of great respect sometimes mixed with fear or surprise,C2,Reverência
+23,People,Bemoan ,to complain or express sadness about something ,none,Lamentar 
+24,People,Berserk,very angry or out of control,none ,Furioso
+25,People,Besiege,"to surround a place, especially with an army, to prevent people or supplies getting in or out",none ,Sitiada
+26,People,Bitterly,in a way that shows strong negative emotion such as anger or disappointment,none ,Amargamente
+27,People,Blunt,saying exactly what you think without caring if you upset people,C2,Franco
+28,People,Brawny,physically strong and with big muscles,none,força física
+29,People,Childish ,"If an adult is childish, they behave badly in a way that would be expected of a child",B2,Infantil
+30,People,Clumsy,"A person who often has accidents because they do not behave in a careful, controlled way",B2,Desajeitado
+31,People,Craving,strong feeling of wanting something.,C2,Desejo
+32,People,Cringe,o feel very embarrassed ,informal,Encolher
+33,People,Dare,"to be brave enough to do something difficult or dangerous, or to be rude or silly enough to do something that you have no right to do ",B2,Ousadia
+34,People,Dread,A strong feeling of fear or worry.,none ,Pavor
+35,People,Envious,wishing you had what another person has,none ,Invejoso
+36,People,Eyesight,the ability to see,B2,Visão
+37,People,Fiddle,"o act dishonestly in order to get something for yourself , or to change something dishonestly, especially to your advantage",none ,Adulterar 
+38,People,Fidget,"to make continuous, small movements that annoy other people",none ,Inquietação
+39,People,Fiery,"flaming or extremely bright, hot, or a red color like fire",none ,Ardente
+40,People,Fuss,"a show of anger, worry, or excitement that is unnecessary or greater than the situation deserves",C1,Alvoroço
+41,People,Gasp,"to take a short quick breath through the mouth, especially because of surprise, pain or shock",C2,Suspiro
+42,People,Good Fun,a person how is nice to be with because they are happy and amusing,none ,Gente boa
+43,People,Giggle,"to laugh repeatedly in a quiet but uncontrolled way, often at something silly or rude or when you are nervous",C2,Rir de desespero/bobeira
+44,People,Grievous,having very serious effects or causing great pain.,none ,Doloroso
+45,People,Hamper,to prevent someone doing something easily,none,"prejudicar, atrapalhar"
+46,People,Heed,"to pay attention to something, especially advice or a warning",none,Prestar atenção a
+47,People,Lacklustre,without energy and effort,none,"sem convicção, sem graça"
+48,People,Malaise,"A general feeling of being ill or having no energy, or an uncomfortable feeling that something is wrong, especially with society, and that you cannot change the situation 
+",none ,Mal-estar
+49,People,Nerve-(w)racking,Something that is difficult to do and causes a lot of worry for the person involved in it: ,none,Angustiante
+50,People,Nod,to move your head up and down as a way of agreeing,none ,Aprovar
+51,People,Nosy,always trying to find private things about other people,C2,Intrometido
+52,People,Plight,"an unpleasant condition, especially a serious, sad, or difficult one",C2,Situação dificil
+53,People,Rapport,a good understanding of someone and an ability to communicate well,none ,Boa relação
+54,People,Sheer,"used to emphasize how very great, important, or powerful a quality or feeling is",C1,Absoluto
+55,People,Skinny,very thin (Mainly disapproving),informal,Magra
+56,People,Slam,to (cause to) move against a hard surface with force and usually a loud noise,B2,bater com
+57,People,Slim,Especially of people attractively thin,A1,Esbelto
+58,People,Stingy,not generous,informal,Mesquinho
+59,People,Strut,to walk in a proud way trying to look important,none ,Desfilar
+60,People,Shouting,"(of a person) utter a loud call or cry, typically as an expression of a strong emotion.",none ,Gritando
+61,People,Shrug,to raise your shoulders and then lower them in order to say you do not know or are not interested,C2,Dar de ombros
+62,People,Tenure,"being the legal owner of land, a job, or an official public position, or the period of time during which you own it",none,Posse
+63,People,Thrive,"to grow, develop, or be sucessful ",C1,"Desenvover-se, Crescer bem"
+64,People,Urge,"a strong wish, especially one that is difficult or impossible to control",C2,"Anseio, ânsia"
+65,People,Wary ,not completely trusting or certain about something or someone,C2,Receoso
+66,People,Wound,"a damaged area of the body, such as a cut or hole in the skin or flesh made by a weapon",B2,Ferida
+67,Education ,Page-turner,a book that is so exciting that you want to read it quickly,none ,Similar a Livro Interessante
+68,Education ,Kindergarten,a nursery school ,none,Creche
+69,Education ,Pupil ,"a person, especially a child at school, who is being taught: ",none,Aluno
+70,Family/Friends,Beau,a boyfriend,old-fahsioned,Namorado
+71,Family/Friends,Breadwinner,the member of a family who earns the money that the family needs,none ,Chefe de família
+72,Family/Friends,Folks,people ,none ,Pessoas
+73,Family/Friends,Foster,"to look after a child as part of your family for a time, without becoming their legal parent",,"Adotar, Criar, Cuidar"
+74,Family/Friends,Grow apart,"to have less close relationship, usually because they no longer have the same interests and want the same things",none ,Crescer à parte
+75,Family/Friends,Get on with somebody,know somebody well and see or talk to them often,none ,Ser próximo
+76,Family/Friends,kinfolk,members of the same family,old-fahsioned,"""meus sangue"""
+77,Family/Friends,Look up somebody,respect somebody / someone,none ,Ter respeito para alguém
+78,Family/Friends,Naughty,A child who behaves badly,B2,Malcriado
+79,Family/Friends,other half," a person’s husband, wife, or usual partner - informal
+",informal,Outra metade
+80,Family/Friends,Parenting,the raising of children and all responsibilities and activities that are involved in it,none ,"""Criar filhos"""
+81,Family/Friends,Pram,a vehicle for moving a baby around that consists of a small bed supported by a frame on four wheels.,none ,Carrinho de bebê
+82,Family/Friends,Sibling,brother or sister,C2,Irmãos e Irmãs
+83,Family/Friends,Take after someone,to be similar to an older person in your family,none ,Puxar alguém
+84,Family/Friends,Toddler,A child who just learned to walk,C2,aprendendo a andar
+85,Family/Friends,Upbringing,"the way in which you are treated and educated when young, especially by your parents, especially in relation to the effect that this has on how you behave and make moral decisions",B2,Educação
+86,Family/Friends,Well brought up,"People, especially children, who are well brought up are polite and act in a quiet and pleasant way, because they have been taught this behaviour at home.",none ,"""Bem criado"""
+87,Food,Brew,"to make beer by soaking, boiling, and fermentation ",none ,
+88,Food,Cauliflower,"a large, round, white vegetable that is eaten cooked or uncooked.",none ,Couve-flor
+89,Food,Forage,to go from place to place searching for things that you can eat or use.,none,"Buscar, Vasculhar"
+90,Food,Icing,a sweat mixture used to cover or fill cakes,none ,Glacê
+91,Food,Pea,"a round, green seed, several of which grow in a pod, eaten as vegetable",none ,Ervilha
+92,Food,Pod,"a long narrow, flat part of some plants, such as beans and peas, that contains the seeds and usually has a thick skin",none ,Vagem
+93,Food,Refreshments,"drinks and food that are given at a meeting, on a journey, etc.",B1,Lanches (Comida e bebida)
+94,Food,Roasters,"A container, oven, furnace, or apparatus for roasting something",none ,Torrador
+95,Food,Scoop,A tool with a deep bowl-shaped end that is used to dig out and move a soft substance of powder,none ,Colher de sorvete
+96,Food,Simmering,"to cook something that is very hot, but does not boil, or to be cooked in this way",none ,Cozinhar em fogo brando
+97,Food,Snack,"a small amount of food that is eaten between meals, or a very small meal",A2,"Petisco, lanche"
+98,Food,Savoury,food is salty or spicy and not sweet in taste,none ,Salgado
+99,Food,Sizzle,to make a sound like food cooking in hot fat,none ,"Chiar no ""óleo"""
+100,Food,Straw,a thin tube made of plastic or waterproof paper that is used suck liquid into the mouth,C1,Canudo
+101,House,Cottage,"a small house, usually in the countryside",B1,Chalé
+102,House,Cupboard,"a piece of furniture or a small part of a room with a door or doors behind which there is space to store things , usually on shelves ",A2,Cristaleira
+103,House,Fence,a wood or metal structure that goes around an area,none ,Cerca
+104,House,Hut,"a small, simple building, usually consisting of one room",B1,Cabana
+105,House,Mop,"a stick with soft material attached to one end, especially for used for washing floors. ",none ,Esfregão
+106,House,Stove,"a piece of equipment that burn fuel or uses electricity in order to heat a place. 
+",none ,Fogão
+107,House,Tenancy,the right to use land or live in a building in exchange for rent.,none ,Locação
+108,House,Tenant,a person who pays rent for the use of land or a building ,C2,Inquilina/Inquilino
+109,Plant,Barn ,Is a building on a farm which crops or animals food can be kept ,C2,Celeiro
+110,Plant,Beech,"a tree with a smooth, grey trunk and small nuts, or the wood from this tree.",none ,faia
+111,Plant,Bush,"a plant with many small branches growing either directly from the ground or from a hard stem, giving the plant a rounded shape ",B2,Arbusto
+112,Plant,Crops,"(the total amount of) a plant such as grain, fruit, or vegetable grown in large amounts ",B1,Cultura
+113,Plant,Harvest,"The time of the year when crops are cut and collected from the fields, or the activity of cutting and collecting them or the crops that are cut and collected ",B1,Colheita
+114,Plant,Reap,to cut and collect a grain crop,none,Colher  
+115,Plant,Scarecrow,a model of a person dressed in old clothes and put in a field of growing crops to frighten birds away ,none ,Espantalho
+116,Plant,Trunk,"the thick main stem of a tree, from which its branches grow",B2,Tronco
+117,Art/Music/Film,Aesthetic,relating to the enjoyment or study of beauty,none,Estético
+118,Art/Music/Film,Chant,to repeat or sing a word or phrase continuously,none ,Canto
+119,Art/Music/Film,Carving,a shape or pattern cut into wood or stone or the skill of doing this,none ,Escultura
+120,Art/Music/Film,Dye,to change the color of something using special liquid ,none ,Tintura
+121,Art/Music/Film,Genre,"style, especially in the arts, that involves a particular set of characteristics 
+",none ,Estilo
+122,Art/Music/Film,Gig,"single performance by a musician or group of musicians, especially playing modern or pop music",none ,Apresentação
+123,Art/Music/Film,Rave,"to speak in an uncontrolled way, usually because you are upset or angry, or because you are ill: 
+",none ,Enfurecer-se
+124,Art/Music/Film,rom com,romantic comedy: a film or television programme about love that is intended to make you laugh. ,none ,Comédia Romântica
+125,Art/Music/Film,star-studded,"When a group of people, a film, or a show have a lot of famous people in it.",none ,Cravejado de Estrelas
+126,Art/Music/Film,Tale ,,B2,Conto
+127,Art/Music/Film,The charts,the lists produced each week of the records with the highest sales,none,Músicas mais tocadas
+128,Art/Music/Film,Tune,"a series of musical notes, especially one that is pleasant and easy to remember.",A2,Afinação
+129,Clothes/Sports,Buckle,"a piece of metal at one end of a belt or strap, used to fasten the two ends together",none,Fivela
+130,Clothes/Sports,Embroidery,patterns or pictures that consist of stitches sewn  directly onto cloth,none,Bordado
+131,Clothes/Sports,Fabric,"cloth or material for making clothes, covering furniture",C2,Tecido
+132,Clothes/Sports,Exhilarating,making you feel very excited and happy,none,Empolgante
+133,Clothes/Sports,Header,the act of hitting the ball with your head in football,none,Cabeçada
+134,Clothes/Sports,Knot,"a place where pieces of string, rope, etc. Have been tied together",none,Nó
+135,Clothes/Sports,Mat,small piece of strong material that covers and protects part of a floor,C1,Tatame/Tapete
+136,Clothes/Sports,Nappy,a thick piece of paper or cloth worn by a baby on its bottom,none,Fralda
+137,Clothes/Sports,Pitch,"field an area painted with lines for playing particular sports, especially football",B2,Quadra
+138,Clothes/Sports,Referee, a person who is in charge of a sports game and who makes certain that the rules are followed,B2,Arbitro
+139,Clothes/Sports,Tights,"a piece of clothing made of thin material that covers the legs and lower part of the body below the waist, worn by women and girls",A2,Collants/Calça Justas
+140,Clothes/Sports,Trousers,"a piece of clothing that covers the lower part of the body from the waist to the feet, consisting of two cylinder-shaped parts, one for each leg, that are joined at the top",A1,Calças
+141,Clothes/Sports,Stroll,"to walk in a slow, relaxed manner, especially for pleasure",C1,pequeno passeio/giro
+142,Clothes/Sports,Umpire,"a person who is present at a sport competition in order to make certain that the rules of particular game are obeyed and to judge if particular actions are acceptable (a cricket/tennis)
+",none,Juiz Cricket/Tênis
+143,Clothes/Sports,Weave,make a cloth by repeatedly crossing a single thread through two sets of long threads on a loom (=special frame),,Tecer
+144,Weather,Boiling,(of a liquid) heated to the point when it starts to turn into a gas (ebulição),none,Ebulição
+145,Weather,Biting ,"use to describe weather that is extremely cold, especially when it causes you physical pain",none,Frio cortante
+146,Weather,Drizzle,"rain in very small, light drops.",none,Chuvisco/Garoa
+147,Weather,Damp,"slightly wet, especially in a way that is not pleasant or comfortable",B2,Úmido
+148,Weather,Drench,to make someone or something extremely wet,none,Encharcado
+149,Weather,Hall,"small, hard balls of ice that fall from the sky like rain",C2,Granizo
+150,Weather,Mild,"not violent, severe or extreme",C1,Suave
+151,Weather,Soaked,extremely wet,B2,Encharcado
+152,Weather,Scorching,very hot ,none,Escaldante
+153,Weather,Smog,"a mixture of smoke, gases, and chemicals, especially in cities, that makes the atmosphere difficult to breathe and harmful for health",C1,Fumaça (Neblina)
+154,Weather,Sweltering,extremely and uncomfortably hot,none,Calor sufocante
+155,Weather,Thaw,"to (cause to) change from a solid, frozen state to a liquid or soft one, because of an increase in temperature",none,degelar
+156,Weather,Whirlwind,"a tall, spinning column of air that moves across the surface of the land or sea",none,Redemoinho
+157,Health,Seizure,"a very sudden attack of an illness in which someone becomes unconscious or develops violent movements:
+",none,Convulsão
+158,Health,Sunbathing,the activity of sitting or lying in the sun to make your skin darker,none,Banho de Sol 
+159,Travel,Self-catering,(of a holiday) having cooking facilities available do that you can cook meals for yourself rahter than having them provided for you,C1,Sem serviço incluído
+160,Travel,Sightseeing,"the activity of visiting interesting places, especially by people on holiday",A2,Turismo
+161,Work,Sack,"fire to remove someone from a job, usually because they have done something wrong or badly, or sometimes as a way of saving the cost of employing them",B2,Despedir
+162,Work,Subpoena,to order someone to go to a law court to answer questions. ,none,Intimação
+163,Work,Sweatshop,a small factory where workers are paid very little and work many hours in very bad conditions.,none,Trabalho em condiçoes precárias
+164,Work,Tailor,"someone whose the job is to repair, make, and adjust (=make changes to) clothes, especially someone who makes jackets, trousers, coats, etc. for men",none,Alfaiate
+165,General,Adamant,"impossible to persuade, or unwilling to change a opinion or decision.",none,Duro/Diamente
+166,General,Backwater,a part of a river where the water does not flow,none,Água Represada
+167,General,Bailiff,an official who is responsible for prisoners who are appearing in court,none,Oficial de Justiça
+168,General,Ballot,a system or occasion of secret voting,none,Votação
+169,General,Bearable," if you have a unpleasant situation , you can accept or deal with it ",none,Suportável
+170,General,Bestow,to give something as an honour or present,formal,Conceder
+171,General,Bloke,"a man, often one who is considered to be ordinary",informal,Cara
+172,General,Bolster,to support or improve something or make it stronger,none,Reforçar
+173,General,Burglar,a person who illegally enters buildings and steals things,B2,Ladrão
+174,General,Burglary,Entry into a building illegally with intent to commit a crime especially theft,B2,Assalto
+175,General,Burial,"the act of putting a dead body into the ground, or the ceremony connected with this.",C2,Enterro
+176,General,Bustle,to do things in a hurried and busy way,none,Pressa
+177,General,booze,"alcoholic drinks
+",none,Bebida 
+178,General,Cannon,"a large, powerful gun, usually attached to two or four wheels, that was used in the past to fire heavy stone or metal balls",none,Canhão
+179,General,Canvas,"strong, rough cloth used for making tents, sails, bags, strong clothes, etc.",none,Tela de Pintura
+180,General,Conundrum,A problem that is difficult to deal with,none,Enigma
+181,General,Clatter,"to make continuous loud noises by hitting hard objects against each other, or to cause objects to do this",none,Barulho
+182,General,Cleft sentence,a sentence that is divided into two clauses in order to show which information is new. ,none,Sentença composta
+183,General,Clues,something that help you to solve a problem or answer a question,B2,Pista/Dica
+184,General,Conceived,to imagine something,C2,Concebida
+185,General,Covey," A small group of people, birds or things. ",none,Bando
+186,General,Cue, a signal for someone to do something,none,Deixa/Sugestão
+187,General,Dazzling,"extremely bright, especially so as to blind eyes temporarily ",C2,Ofuscante
+188,General,Dean,an official of high rank in a college or university who is responsible for the organization of a department or departments,none,Reitor/Decano
+189,General,Deem,to consider or judge something in a particular way,C2,Considerar
+190,General,Depot,"a building where suppliers, or vehicles, especially buses are kept
+",none,Armazém/Depósito
+191,General,Detached,house is not connected to any other building,C1,Desanexada
+192,General,Devise,"To invent a system, object, etc. usually using your intelligence or imagination",none,Criar
+193,General,Duress,threats used to force a person to do something,Formal,Coação
+194,General,Elusive,"difficult to describe, find, achieve, or remember.",C2,"Indefinível, difícil de conseguir"
+195,General,Every other day,"one day yes, one day no, one day yes, one day no",none,Dia sim dia não
+196,General,Fade,"to (cause to) lose colour, brightness, or strength gradually",B2,Murchar
+197,General,Flee,"to escape by running away, especially because of danger or fear",C1,Fugir
+198,General,Flimsy,"very thin, or easily broken or destroyed",none,Frágil
+199,General,Footage,Film or videotape that shows a single event or place,none,Cenas
+200,General,Foyer,"A large open area just inside the entrance of a public building such as theatre or a hotel, where people can wait and meet each other",none,Salão de teatro/Saguão
+201,General,Fortnight,a period of two weeks,B1,Quinzena
+202,General,Fringe,"the outer or less important part of an area, group, or activity",C2,"Orla, Franja"
+203,General,Gauge,"To calculate an amount, especially by using a measure device. To make a judgement about something, usually people’s feelings. A device for measuring the amount or size of something. ",none,Medida
+204,General,Glimpse,an occasion when you see something or someone for a very short period of time,C1,Vislumbre
+205,General,Gouge,To make a hole in something in a rough or violent way,none,Cortar
+206,General,Gnaw,"to bite or chew something repeatedly, usually making a hole in it or gradually destroying it",none,Roer
+207,General,Grasp,to quickly take something in your hand(s) and hold it firmly,C1,Entender
+208,General,Harness,"a piece of equipment with straps and belts, used to control or hold in place a person, animal or object",none,Arreio
+209,General,Hinder,"to limit the ability of someone to do something, or to limit the development of something",C2,"Dificultar, atrapalhar"
+210,General,Hollow,having a hole or empty space inside,C2,"Oco, buraco, cavidade"
+211,General,Hype,"a situation in which something is advertised and discussed in newspapers, on television, etc. a lot in order to attract everyone’s interest",none,Campanha publicitária
+212,General,Inlaid,"having a decorative pattern put into a surface, or forming a pattern like this",none,Incrustado
+213,General,Imperative,Extremely important or urgent,C2,Imperativo
+214,General,Jeopardize,o put something such as a plan or system in danger of being harmed or damaged,none,Comprometer
+215,General,Jolt,to (cause something or someone to) move suddenly and violently,none,Solavanco
+216,General,Litter,small pieces of rubbish that have been left lying on the ground in public places,B2,Lixo
+217,General,Ogle,To look at someone with obvious sexual interest.,none,Comer com os olhos
+218,General,Ornament,A object that is more beautiful rather than useful,C2,Enfeite
+219,General,Overlook,to not notice or consider something. Alternate: to have a view of something from above.,none,Negligenciar
+220,General,Outpatients,"A person who goes to a hospital for treatment, but who does not stay any night there",none,Pacientes Externos
+221,General,Outskirts,(of cities and towns) the areas that form the edge,B2,Arredores
+222,General,Peril,"danger, or something that is dangerous",none,Perigo
+223,General,Pottery, the activity or skill of making clay objects by hand,B2,Cerâmica
+224,General,Quandary,a state of not being able to decide what to do about a situation in which you are involved. ,none,Dilema
+225,General,Quashes,"o say officially that something, especially an earlier official decision, is no longer to be accepted",none,Anular
+226,General,Resilient,"able to quickly return to its usual shape after being bent, streched, or pressed.",C2,"Elastico, Resiliente"
+227,General,Maisonette,a small apartment that is usually part of a larger building with two levels and that has its own entrance,none,Duplex
+228,General,Maze,a complicated system of paths or passages that people try to find  their way through for entertainment,none,Labirinto
+229,General,Measles,"infectious disease that produces small, red spots all over the body",none,Sarampo
+230,General,Mediocre,not very good,C2,medíocre
+231,General,Molten,Metal or Rock is a liquid state because of great heat. ,none,Fundido
+232,General,Moist,"Slightly wet, especially in a good way",none,Umido
+233,General,Neat,"Tidy, with everything in its place ",B1,Arrumado
+234,General,Odds,the probability (= how likely it is) that a particular thing will or will not happen,C1,Probabilidade
+235,General,Peril ,"great danger, or something that is very dangerous",none,"Perigo, Risco"
+236,General,Prolific,Producing a great number or amount of something,none,Prolífico - Produtivo
+237,General,Reckless,doing something really dangerous and not worrying about the risks and the possible results,C2,Imprudente
+238,General,Rough,dangerous or violent,B2,"Perigoso, Violento"
+239,General,Rubber, an elastic substance (= that stretches) made either from juice of particular tropical trees or artificially ,B2,Borracha
+240,General,Rubbish,"garbage, trash waste material or things that are no longer wanted or needed",B1,Lixo
+241,General,Ruck," ordinary people or things, that you consider boring",none,Multidão
+242,General,Rucksack,a bag that you carry on your back ,none,Mochila
+243,General,Scissors,"a device used for cutting materials such as paper, cloth, and hair, consisting of two sharp blades that are joined in the middle, and two handles with holes to put your fingers through",A2,Tesoura
+244,General,Seashore,the land along the edge of the sea,none,Beira mar
+245,General,Shellfish,"Sea creatures that live in shells and are eaten as food, or one of these creatures: lobsters, crabs, and oysters are all shellfish",none,Mariscos
+246,General,Shipwreck,"an accident in which a ship is destroyed or sunk at sea, especially by hitting rocks, or a ship that has been destroyed or sunk an accident. ",none,Naufrágio
+247,General,Silly,"not important, serious, or practical ",none,Boba
+248,General,Soaking,completely wet,B2,Encharcado
+249,General,Soar,to rise very quick to a high level ,C2,Subir Muito
+250,General,Sorrow,(a cause of) feeling of great sadness,C2,Tristeza
+251,General,Sovereign, a king or queen; government; ,none,Governante
+252,General,Spurt,"to (cause to) flow out suddenly and with force, in a fast stream:
+",none,Jorrar
+253,General,Snuggle,"o move close to someone to affection, warmth, or comfort, or to arrange something around yourself
+",none,Aconchegar
+254,General,Sought,Past of seek ,B2,Buscou
+255,General,Sprinkle,To drop a few pieces or drops something over a surface,C2,Borrifar/regar
+256,General,Sways,to move slowly from side to side,none,Balançar
+257,General,Swell,to become larger and rounder than usual; to (cause to) increase in size or amount,none,Inchar
+258,General,Stumble,to step badly and almost fall over,none,Tropeçar
+259,General,Streamlined,improved or made simpler.,none,Simplificado
+260,General,Taper ,"to become graually narrower at one end, or to make something do this",none,Estreitar-se
+261,General,Terraced,built as or belonging to a row of often small houses joined together along their side walls:,none,Terraço
+262,General,The outset,the beginning,C2,O princípio
+,General,The crux,"the most important or serious part of a matter, problem, or argument",none,o cerne
+,General,Tide,The rise and fall of the sea that happens  twice every day,B2,Maré
+,General,Towed,"to take away a vehicle that has been parked illegally using an official truck, to a place from which the driver has to pay to pick it up ",none,Rebocada
+,General,Unearth,To discover something in the ground,none,Desenterrar
+,General,Unspoiled,An unspoiled place is beatiful because it has not been changed or damaged by people,none,intocado
+,General,Usher,"To show someone where they should go, or to make someone go where you want them to go",none,Arrumador/Porteiro
+,General,Utter,Complete or extreme,C2,Total
+,General,Xenofobia,"extreme dislike or fear of foreigners, their customs, their religions, etc",C2,Xenofobia
+,General,Wax,a solid substance containing a lot of fat that becomes soft and melts when warm,none,Cera
+,General,Whizz,to move or do something very fast,none,Zumbido
+,General,Wreckage,a badly damaged object or the separated parts of a badly damaged object,C2,Destroços
+,General,Wring,to hold something tightly with both hands and twist it by turning your hands in opposite directions,none,Torcer
+,General,Yield,to make or provide something,C2,Dar/Fornecer
